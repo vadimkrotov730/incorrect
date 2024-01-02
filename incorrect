@@ -1,0 +1,4 @@
+  } else {
+            attempts--;
+            if (attempts > 0) {
+                std::cout << "Incorrect. You have " << attempts << " attempts left." << std::endl;
